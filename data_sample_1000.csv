@@ -1,1001 +1,1001 @@
-Education,Income,SocioStatus,Physical Activity,Obesity,Physical Attribute,GeneticPredisposition,AdverseChildhood,Artificial Intelligence,Traditional Methods,Depression
-Medium,High,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Obese,Poor,Present,Present,No,No,No
-Medium,High,Low,Active,Obese,Poor,Present,Absent,No,No,No
-High,Medium,Low,Inactive,Not Obese,Good,Present,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Low,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Low,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,Yes
-High,Medium,High,Active,Not Obese,Good,Present,Absent,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Low,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-Low,High,Low,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Active,Obese,Poor,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,Yes
-High,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Obese,Poor,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,High,High,Active,Obese,Poor,Present,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,Low,High,Active,Obese,Good,Absent,Absent,No,No,No
-High,High,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,Yes
-Low,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Low,High,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,High,Inactive,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Present,No,No,No
-Low,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,High,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Low,High,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-Medium,Medium,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Low,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,High,High,Inactive,Obese,Good,Present,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Low,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Obese,Poor,Present,Absent,No,No,No
-Low,High,Low,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Present,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,High,High,Active,Obese,Good,Present,Present,No,No,Yes
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Low,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Low,Low,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,High,High,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Obese,Good,Present,Absent,No,No,No
-High,High,High,Active,Obese,Poor,Present,Absent,No,No,No
-High,Low,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Poor,Present,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Present,Present,No,No,Yes
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Low,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Present,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,Low,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,Yes
-Medium,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,Yes
-High,Medium,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,Yes
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Low,Low,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Medium,Low,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,High,Low,Inactive,Obese,Good,Present,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,Yes
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Present,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Present,Present,No,No,No
-Low,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,Low,Low,Active,Obese,Good,Present,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Present,Absent,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Present,Absent,No,No,No
-Low,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Low,High,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-High,High,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Low,High,High,Active,Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Present,Absent,No,No,Yes
-Medium,Medium,High,Active,Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,Yes
-Medium,Medium,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Inactive,Obese,Poor,Present,Present,No,No,Yes
-High,High,High,Inactive,Not Obese,Good,Present,Absent,No,No,No
-High,High,Low,Active,Obese,Poor,Absent,Present,No,No,Yes
-Medium,High,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,Low,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Low,Low,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Active,Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Obese,Poor,Present,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-Medium,Medium,High,Inactive,Obese,Poor,Present,Absent,No,No,Yes
-Medium,High,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Low,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Obese,Poor,Present,Present,No,No,Yes
-High,High,High,Active,Obese,Good,Present,Absent,No,No,No
-High,High,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,Low,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Obese,Poor,Present,Present,No,No,No
-High,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Good,Present,Absent,No,No,Yes
-High,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Present,Absent,No,No,Yes
-Medium,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,Low,Active,Obese,Good,Present,Absent,No,No,No
-Low,Low,Low,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Low,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Low,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,Yes
-Medium,Medium,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Absent,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Present,Present,No,No,No
-High,Low,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,Yes
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Present,Present,No,No,Yes
-High,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Present,Absent,No,No,No
-Low,High,High,Active,Obese,Poor,Present,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Low,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-Medium,High,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Present,Absent,No,No,Yes
-Medium,Medium,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Good,Present,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-High,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,Low,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-Low,Low,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Present,No,No,No
-High,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Low,Low,Active,Obese,Poor,Present,Absent,No,No,Yes
-Medium,High,High,Inactive,Not Obese,Good,Present,Present,No,No,No
-Medium,Low,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-High,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-High,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-High,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,Yes
-Medium,High,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Low,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Present,Present,No,No,Yes
-High,Low,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,High,Active,Obese,Good,Present,Absent,No,No,No
-High,High,High,Active,Obese,Poor,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Active,Obese,Poor,Absent,Absent,No,No,No
-High,High,High,Active,Obese,Poor,Present,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Poor,Present,Present,No,No,Yes
-High,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,Low,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Low,Low,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Absent,No,No,Yes
-Medium,Medium,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-High,Medium,Low,Inactive,Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Absent,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Absent,No,No,No
-High,High,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,Yes
-Low,High,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Present,Absent,No,No,Yes
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Obese,Good,Absent,Absent,No,No,Yes
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Medium,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,Low,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,Yes
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-High,High,Low,Inactive,Obese,Poor,Present,Present,No,No,Yes
-High,High,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Low,Low,Low,Inactive,Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,Low,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,High,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,Yes
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Low,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Low,Low,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,High,Active,Obese,Poor,Present,Absent,No,No,No
-Low,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Low,Low,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Low,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Obese,Good,Present,Present,No,No,Yes
-Medium,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Active,Obese,Poor,Present,Absent,No,No,Yes
-Low,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Absent,Present,No,No,Yes
-Low,Medium,Low,Inactive,Obese,Poor,Absent,Absent,No,No,Yes
-Medium,Low,High,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Low,High,Low,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Low,Low,Inactive,Not Obese,Good,Absent,Present,No,No,Yes
-High,Medium,Low,Active,Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,Medium,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Low,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Present,Present,No,No,No
-Medium,Medium,High,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Present,No,No,No
-High,Low,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Present,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Obese,Poor,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Active,Obese,Poor,Present,Present,No,No,Yes
-High,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Low,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,High,Active,Obese,Good,Present,Absent,No,No,No
-High,High,High,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,High,Active,Obese,Good,Present,Absent,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-Medium,Low,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-High,Low,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,Low,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-High,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Low,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Obese,Poor,Present,Present,No,No,Yes
-High,Medium,High,Active,Obese,Good,Present,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Medium,Medium,Low,Active,Obese,Good,Present,Absent,No,No,No
-High,High,High,Active,Not Obese,Poor,Present,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Present,No,No,No
-High,High,Low,Inactive,Obese,Good,Absent,Present,No,No,No
-Low,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Present,Present,No,No,Yes
-High,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,Yes
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,High,Low,Active,Obese,Poor,Absent,Absent,No,No,Yes
-High,High,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-High,Low,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,Low,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,High,Active,Not Obese,Good,Present,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-High,Medium,Low,Active,Obese,Good,Present,Absent,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Poor,Present,Absent,No,No,No
-High,High,High,Active,Obese,Poor,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Poor,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-Low,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Low,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Low,High,Active,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,Yes
-Low,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,Yes
-Low,Medium,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-High,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Good,Present,Absent,No,No,No
-Low,Medium,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-High,Low,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Active,Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Poor,Present,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-High,Low,Low,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Present,Present,No,No,Yes
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Obese,Poor,Present,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-Low,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Poor,Present,Present,No,No,Yes
-High,High,High,Active,Obese,Poor,Present,Absent,No,No,No
-Low,High,High,Inactive,Obese,Poor,Absent,Absent,No,No,Yes
-Low,Medium,High,Inactive,Obese,Poor,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-High,Low,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Present,Present,No,No,Yes
-High,Medium,High,Active,Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,Yes
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,High,Active,Obese,Good,Present,Present,No,No,Yes
-Medium,Medium,Low,Active,Obese,Poor,Present,Present,No,No,Yes
-High,Medium,High,Active,Obese,Good,Absent,Absent,No,No,Yes
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Present,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-High,Low,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Not Obese,Poor,Absent,Present,No,No,Yes
-Medium,Medium,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,High,High,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Present,Present,No,No,Yes
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Low,Medium,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,Low,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,High,Low,Inactive,Not Obese,Good,Present,Absent,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Good,Present,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,Low,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Low,High,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Low,Medium,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-Low,Low,Low,Active,Obese,Good,Present,Present,No,No,No
-Medium,Low,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-Medium,High,Low,Active,Obese,Poor,Absent,Present,No,No,Yes
-High,High,Low,Inactive,Not Obese,Poor,Present,Present,No,No,Yes
-Medium,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,Yes
-High,High,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Low,Medium,High,Active,Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,Low,Active,Obese,Poor,Present,Present,No,No,Yes
-High,Medium,High,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Low,Low,Inactive,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-High,Low,High,Active,Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,Low,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Absent,Present,No,No,Yes
-Medium,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Present,Present,No,No,No
-High,High,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Low,Low,Active,Obese,Good,Present,Present,No,No,No
-Low,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-Low,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Inactive,Obese,Poor,Present,Present,No,No,Yes
-Medium,High,High,Active,Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Low,High,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Present,No,No,No
-Low,High,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Poor,Present,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,High,High,Inactive,Not Obese,Good,Present,Present,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,Low,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Present,No,No,Yes
-Medium,High,High,Active,Obese,Poor,Present,Absent,No,No,No
-Medium,High,Low,Active,Obese,Poor,Present,Absent,No,No,No
-Low,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-Medium,High,High,Inactive,Obese,Good,Present,Absent,No,No,No
-High,High,High,Active,Obese,Good,Absent,Absent,No,No,Yes
-High,High,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,High,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,High,Low,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-High,High,High,Active,Obese,Good,Present,Absent,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Absent,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Present,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Low,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,High,High,Active,Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Active,Obese,Poor,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Low,Medium,Low,Inactive,Obese,Good,Present,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Medium,Medium,Low,Inactive,Not Obese,Good,Present,Absent,No,No,Yes
-High,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Inactive,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Present,Absent,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Poor,Present,Absent,No,No,Yes
-Medium,High,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Low,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Low,High,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,Low,Active,Obese,Poor,Present,Absent,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Medium,High,Low,Inactive,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Low,Low,Inactive,Not Obese,Good,Present,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Low,High,Low,Inactive,Not Obese,Good,Present,Absent,No,No,No
-Low,High,High,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,High,High,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Poor,Present,Present,No,No,No
-High,Medium,High,Inactive,Obese,Good,Present,Absent,No,No,No
-High,Medium,High,Inactive,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-High,Low,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,Medium,High,Inactive,Not Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-High,Medium,High,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Present,Present,No,No,Yes
-Medium,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,High,Low,Active,Obese,Good,Present,Present,No,No,Yes
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,High,Low,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,High,High,Active,Obese,Poor,Absent,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Low,High,Low,Active,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Not Obese,Poor,Absent,Present,No,No,Yes
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Present,Present,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Low,High,Active,Not Obese,Poor,Absent,Present,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Low,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Active,Obese,Poor,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-High,High,Low,Active,Obese,Good,Absent,Present,No,No,Yes
-Medium,High,Low,Active,Obese,Poor,Present,Present,No,No,No
-High,High,High,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Inactive,Not Obese,Poor,Present,Absent,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Low,Low,Low,Inactive,Obese,Poor,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,Medium,Low,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Obese,Good,Absent,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-High,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,High,Active,Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-High,Medium,Low,Active,Obese,Poor,Present,Present,No,No,Yes
-Low,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,Low,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,Low,Inactive,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-High,High,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Absent,No,No,No
-High,High,High,Inactive,Obese,Poor,Present,Absent,No,No,No
-High,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Poor,Present,Present,No,No,No
-Low,Medium,Low,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Low,Low,Active,Obese,Poor,Present,Present,No,No,Yes
-Medium,High,Low,Active,Obese,Good,Present,Present,No,No,No
-Medium,High,Low,Active,Obese,Good,Absent,Present,No,No,No
-Low,Low,Low,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,High,High,Inactive,Not Obese,Good,Present,Absent,No,No,Yes
-Low,Low,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-High,High,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,High,Low,Active,Not Obese,Good,Present,Present,No,No,No
-Medium,Low,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-High,High,Low,Inactive,Not Obese,Good,Absent,Absent,No,No,No
-High,Low,Low,Active,Obese,Poor,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Present,No,No,Yes
-Low,Medium,Low,Active,Obese,Poor,Present,Present,No,No,Yes
-Medium,Medium,High,Active,Obese,Good,Present,Present,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Present,Absent,No,No,No
-Low,High,Low,Active,Not Obese,Good,Absent,Present,No,No,No
-Low,Medium,Low,Active,Obese,Poor,Present,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-High,Medium,High,Active,Not Obese,Good,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Not Obese,Good,Absent,Present,No,No,No
-Medium,Medium,Low,Inactive,Not Obese,Poor,Absent,Present,No,No,Yes
-High,High,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Low,Medium,Low,Active,Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Medium,Low,Low,Active,Obese,Poor,Present,Present,No,No,Yes
-High,Medium,High,Active,Not Obese,Good,Present,Absent,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Absent,Present,No,No,No
-High,Medium,High,Active,Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,Low,Active,Not Obese,Good,Absent,Absent,No,No,No
-Medium,Medium,High,Inactive,Not Obese,Poor,Absent,Present,No,No,Yes
-High,High,High,Inactive,Not Obese,Poor,Absent,Absent,No,No,No
-Low,High,High,Active,Obese,Good,Absent,Present,No,No,No
-Medium,High,High,Inactive,Obese,Poor,Present,Present,No,No,No
-Medium,High,High,Active,Obese,Poor,Absent,Present,No,No,No
-Medium,High,Low,Inactive,Obese,Poor,Present,Present,No,No,No
+Motivation,PriorKnowledge,StudyTime,Attendance,Engagement,Understanding,AssignmentPerf,ExamAnxiety,ExamPerf,FinalGrade
+0,0,0,1,1,1,1,0,0,2
+0,1,0,0,0,0,1,0,1,2
+1,0,1,1,1,0,0,1,0,2
+1,0,0,0,1,0,0,1,0,0
+0,1,0,1,1,1,1,0,0,2
+0,1,0,1,1,0,0,1,0,0
+1,1,1,0,1,1,1,0,0,2
+0,0,0,1,0,0,0,1,0,0
+0,0,0,1,0,0,1,1,0,2
+1,1,1,0,1,1,1,0,1,3
+0,0,0,0,0,0,1,0,1,2
+1,1,1,1,1,1,1,0,1,3
+0,0,0,1,0,0,0,0,0,0
+0,1,0,0,0,0,0,0,0,0
+1,0,1,1,1,1,1,0,1,2
+0,1,0,1,1,0,1,0,1,3
+0,1,0,0,0,1,0,0,0,0
+0,1,1,0,0,1,1,0,1,1
+1,0,1,0,0,1,1,1,1,2
+0,0,1,0,1,1,1,0,1,3
+1,0,0,1,1,0,1,0,1,3
+0,0,0,1,0,0,1,0,1,3
+0,0,0,1,1,0,0,1,0,0
+0,1,0,1,1,1,1,0,0,1
+1,1,1,0,1,1,1,0,0,2
+1,1,1,1,1,1,1,0,0,2
+1,1,1,1,1,1,1,0,0,3
+1,0,1,1,1,1,1,0,0,3
+0,1,1,0,0,0,1,0,1,3
+1,0,1,0,0,0,0,0,0,0
+1,0,1,1,1,0,1,0,0,2
+1,0,1,1,1,1,1,0,1,1
+1,0,0,0,1,1,1,1,0,2
+0,1,0,1,1,1,1,0,0,2
+1,0,1,1,1,1,1,1,1,3
+1,0,1,1,0,0,0,0,1,3
+1,0,1,1,1,0,0,1,0,2
+1,0,1,1,1,1,1,1,1,2
+0,0,0,1,1,0,1,1,0,3
+1,1,0,1,0,1,1,1,0,1
+1,0,1,1,1,1,1,1,0,3
+1,0,0,1,1,1,1,0,1,3
+1,1,1,0,0,1,1,1,1,2
+0,1,0,0,1,1,1,0,1,2
+1,1,1,1,1,1,1,0,0,3
+0,1,0,1,0,0,0,1,0,3
+0,0,0,1,1,0,1,0,1,2
+1,1,1,1,1,1,0,1,0,2
+0,1,0,1,1,1,1,0,0,3
+1,0,1,1,1,1,1,0,1,3
+1,0,0,1,1,1,1,0,0,2
+0,1,0,0,0,0,0,0,0,1
+1,0,1,1,1,1,1,0,1,3
+0,0,1,1,1,1,1,1,0,1
+0,1,1,0,0,0,0,1,0,0
+1,0,1,1,0,0,0,1,0,0
+1,1,1,1,1,1,1,1,0,2
+1,1,1,1,1,1,1,0,1,3
+0,1,1,1,0,0,1,0,1,3
+1,0,1,0,1,0,0,1,0,3
+1,1,1,1,1,1,0,1,1,2
+0,0,1,1,1,1,1,0,1,1
+0,1,0,1,1,1,1,0,0,3
+1,0,0,1,1,0,0,1,1,3
+0,1,0,1,0,1,1,0,1,2
+0,0,1,1,0,0,0,0,0,1
+1,1,1,1,1,1,1,0,1,2
+0,0,0,1,1,0,1,1,0,1
+0,1,0,1,1,1,1,0,0,3
+0,0,0,0,1,0,1,0,0,2
+1,1,1,1,1,1,0,0,1,2
+1,1,1,1,1,1,0,1,0,2
+0,0,0,1,1,0,0,0,0,0
+1,0,1,1,1,1,1,0,1,3
+1,1,0,1,1,0,0,0,1,2
+1,1,1,1,1,1,1,0,0,1
+1,0,1,0,0,1,1,1,1,2
+1,1,1,1,1,0,0,1,0,0
+0,0,1,1,0,0,0,0,1,1
+1,0,1,1,1,0,0,1,0,2
+1,1,1,1,0,1,1,0,1,3
+1,0,1,1,1,1,1,0,1,2
+1,1,0,0,0,1,1,0,1,1
+1,1,1,1,1,1,1,1,0,3
+1,1,0,1,1,1,1,1,0,2
+0,0,0,1,0,0,0,1,1,2
+0,1,1,1,1,1,1,0,1,3
+1,0,1,1,1,0,1,1,0,3
+0,1,1,1,0,1,1,0,0,2
+0,1,0,1,1,0,1,0,1,3
+0,0,0,1,0,0,0,0,0,0
+1,1,1,0,0,1,1,0,1,2
+0,0,0,1,0,0,0,0,0,1
+1,0,0,1,1,0,1,1,0,2
+0,1,1,1,0,1,1,1,1,2
+0,1,0,1,1,0,0,0,0,1
+1,0,1,1,0,1,0,0,1,2
+1,1,1,1,1,1,0,0,1,2
+1,1,1,0,0,0,0,1,0,0
+1,1,1,1,1,1,1,1,0,2
+0,0,0,1,1,0,0,0,1,3
+1,0,1,1,0,0,1,0,1,2
+1,0,0,1,0,0,0,0,1,2
+1,0,1,1,1,0,0,0,0,0
+1,1,1,1,0,1,1,1,0,2
+1,1,1,1,1,1,1,1,1,3
+1,0,0,0,0,0,1,0,0,1
+0,1,0,1,0,1,0,1,0,0
+1,0,1,1,1,0,1,0,1,3
+0,1,1,1,0,1,1,1,0,3
+1,0,0,1,1,1,1,0,1,3
+0,0,0,1,1,1,1,0,1,3
+0,1,0,1,0,1,1,0,0,2
+0,0,1,0,0,1,0,0,1,1
+1,1,1,0,1,1,1,0,1,2
+0,1,0,1,1,1,1,0,1,2
+0,0,0,1,1,1,1,0,0,1
+1,1,0,1,1,1,1,0,1,2
+1,1,0,1,1,0,0,1,0,1
+1,1,0,1,1,1,1,0,1,3
+1,0,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,1,0,3
+0,0,0,1,0,0,0,0,0,0
+0,0,0,1,0,0,0,1,0,0
+0,1,0,1,0,0,1,1,0,1
+1,1,0,1,1,1,1,0,1,2
+0,1,1,0,0,0,0,0,0,0
+1,1,1,0,0,1,1,1,0,2
+1,0,1,1,0,0,0,0,0,0
+1,0,1,0,0,0,1,0,1,3
+0,0,0,1,0,0,0,0,1,2
+1,0,0,1,1,0,1,0,1,1
+1,1,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,1,0,2
+1,1,1,1,1,1,1,0,1,3
+1,1,1,1,1,0,0,1,0,0
+1,0,0,1,1,1,1,1,0,2
+0,0,0,0,0,0,1,0,0,3
+1,1,1,1,1,1,1,0,0,2
+0,1,1,0,0,0,0,0,1,1
+1,1,0,0,0,1,1,1,1,3
+1,0,1,0,1,1,1,1,0,2
+1,1,1,0,1,1,1,0,1,3
+1,0,0,1,1,0,1,1,1,2
+0,1,1,1,1,1,1,1,1,2
+1,1,0,1,1,1,1,0,1,3
+0,1,0,1,0,0,1,1,0,2
+1,1,1,0,0,1,1,1,1,3
+0,1,0,0,0,0,1,0,0,1
+1,0,1,1,1,1,1,0,1,2
+0,0,1,1,1,1,1,1,1,2
+0,0,1,0,0,0,0,0,0,0
+0,1,0,1,1,1,1,0,1,2
+0,1,0,0,0,0,0,0,0,0
+1,1,1,0,1,1,1,1,1,3
+1,0,0,0,1,0,0,1,0,3
+0,1,0,1,0,0,0,1,0,1
+1,1,1,1,1,1,1,1,1,3
+0,0,0,0,0,0,0,1,1,2
+1,1,1,1,1,1,1,1,0,3
+0,1,0,0,0,1,1,0,1,3
+1,1,1,1,1,1,1,1,0,2
+1,0,1,0,0,0,0,0,0,0
+1,1,0,1,1,1,0,1,1,1
+1,0,1,1,1,0,0,0,0,1
+0,0,1,0,0,1,1,0,1,3
+1,1,1,0,1,1,1,0,1,1
+1,1,1,0,1,1,1,0,1,3
+0,1,1,1,1,1,1,0,1,1
+0,0,0,0,0,0,0,0,0,0
+1,1,1,1,1,0,0,0,0,1
+1,0,1,1,1,1,1,0,1,2
+1,1,1,1,0,1,1,0,1,1
+0,0,1,1,1,1,1,0,1,2
+1,0,1,1,1,1,1,0,1,3
+0,0,0,1,0,0,0,1,0,1
+0,1,0,1,0,1,1,1,1,2
+0,1,1,0,0,1,0,1,1,2
+0,0,1,1,0,1,1,0,0,1
+1,1,1,1,0,1,1,1,1,2
+0,0,1,0,0,1,1,0,1,2
+1,0,0,1,1,0,1,1,1,3
+1,1,1,1,1,1,1,0,1,3
+1,1,0,0,1,1,1,0,1,2
+1,1,1,0,1,1,1,0,0,2
+0,1,0,1,0,1,1,1,1,3
+1,1,1,1,1,1,1,0,0,2
+1,0,0,0,0,0,1,1,1,3
+1,1,1,1,1,1,1,0,1,1
+0,0,1,1,1,0,0,0,1,2
+0,1,0,1,1,0,0,1,0,0
+0,0,0,1,1,0,0,0,1,1
+1,0,1,0,0,0,0,1,0,2
+0,1,1,1,0,1,1,0,0,3
+0,1,0,1,1,1,0,0,1,2
+1,0,0,1,1,0,0,0,1,2
+0,0,0,1,0,0,0,1,0,1
+0,0,0,1,0,0,0,0,1,2
+0,0,1,0,0,0,1,0,0,1
+1,1,1,1,0,1,1,1,1,2
+1,1,1,0,1,1,1,0,1,2
+1,0,1,0,1,1,1,0,1,2
+1,1,0,1,0,0,0,1,0,1
+0,0,0,0,0,0,0,1,0,1
+0,0,1,1,1,1,1,0,1,3
+1,0,1,1,1,1,1,0,1,2
+1,1,1,0,1,1,1,1,1,3
+1,0,1,1,1,1,1,1,1,3
+1,1,1,0,0,1,1,1,1,1
+0,1,1,1,0,1,1,0,1,2
+1,1,0,0,0,0,1,1,0,2
+1,1,1,1,1,1,1,0,1,3
+0,0,0,1,0,0,0,0,0,1
+0,1,1,1,0,1,1,1,1,3
+0,0,1,1,1,1,1,0,1,3
+1,0,1,0,1,1,1,0,0,1
+1,1,1,0,0,0,1,0,0,1
+1,0,1,1,1,1,1,1,1,2
+1,1,1,1,1,1,1,0,1,2
+1,1,0,1,1,1,1,0,1,2
+0,1,0,1,0,0,0,1,1,2
+1,0,1,1,1,0,0,1,0,1
+1,0,1,1,1,0,1,0,1,3
+0,1,1,1,0,0,1,1,0,1
+1,0,1,0,0,0,0,1,0,0
+1,0,1,1,1,0,0,1,0,0
+1,0,1,0,0,1,1,0,0,2
+1,1,0,1,0,0,0,0,0,0
+1,0,1,0,1,0,0,0,0,3
+1,0,0,0,1,0,0,1,0,1
+0,1,0,1,0,0,1,0,1,3
+0,1,0,1,1,0,0,1,0,1
+1,0,1,1,1,1,0,0,1,1
+1,1,1,1,1,1,1,0,1,2
+1,0,1,1,1,1,1,1,0,1
+1,1,1,1,1,1,0,0,1,3
+0,0,0,1,1,0,1,1,0,1
+1,0,1,1,1,1,1,1,1,1
+0,0,0,1,0,1,1,0,1,3
+0,0,0,1,0,1,1,1,1,3
+0,1,1,1,0,0,1,1,0,3
+0,1,0,1,1,0,1,0,1,3
+1,0,1,1,1,1,0,1,1,1
+1,0,0,1,1,0,0,1,0,3
+0,0,0,1,1,0,0,0,1,3
+0,0,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,2
+1,1,1,1,0,0,0,1,0,0
+1,0,1,1,1,1,1,1,0,3
+1,1,1,1,1,1,1,0,1,2
+1,0,1,1,1,0,0,0,0,1
+0,1,1,1,0,1,1,1,1,2
+1,1,1,1,1,1,1,0,1,2
+1,1,1,0,0,0,0,0,1,2
+1,0,1,1,1,1,1,0,1,3
+1,0,1,0,1,0,0,0,1,2
+1,1,1,1,1,0,1,0,0,3
+1,0,1,0,0,0,0,0,0,0
+1,1,1,1,1,1,1,0,1,3
+1,0,1,1,1,0,0,0,0,0
+1,0,1,0,0,1,1,1,0,3
+1,0,1,1,1,1,1,0,1,3
+1,0,1,1,1,0,1,0,1,3
+1,0,1,0,0,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,1
+0,1,1,1,0,0,1,1,0,3
+0,0,0,0,0,0,1,0,1,2
+1,1,1,1,1,1,1,0,1,2
+0,1,0,1,0,0,0,0,1,2
+0,0,1,0,0,0,0,0,0,2
+0,1,1,1,1,1,1,1,1,3
+1,0,1,1,1,1,1,1,0,3
+1,1,1,1,0,1,0,0,1,2
+1,1,1,0,0,1,0,1,1,1
+1,1,0,0,0,1,1,1,0,2
+0,1,0,0,0,0,0,1,1,2
+0,0,0,1,0,0,0,0,1,2
+1,1,1,1,1,1,1,1,0,2
+1,0,1,0,0,0,0,0,0,1
+1,0,1,1,1,0,1,0,1,2
+0,1,1,1,1,1,1,0,1,3
+1,0,1,1,1,0,1,0,0,3
+0,0,0,1,1,0,0,1,1,1
+1,0,1,1,1,1,1,0,1,2
+0,1,1,0,0,1,1,1,1,2
+1,1,1,1,1,1,1,0,1,2
+1,1,1,1,1,1,1,1,1,2
+1,1,1,1,0,1,1,0,1,2
+1,0,0,1,1,0,0,1,0,1
+1,0,0,1,1,0,1,0,1,2
+0,0,1,0,0,1,1,0,1,2
+0,1,1,1,1,1,1,0,1,3
+0,1,0,1,0,0,0,1,1,2
+1,1,0,1,1,0,0,1,1,3
+1,1,1,0,1,1,1,0,1,2
+0,1,0,1,1,1,1,1,1,3
+1,1,0,0,0,0,0,0,1,1
+1,1,1,1,1,1,1,0,1,2
+1,1,1,0,0,0,1,0,0,1
+1,1,1,0,0,1,1,1,0,3
+1,0,1,0,0,0,0,0,1,3
+0,1,0,1,1,1,0,0,1,1
+0,1,0,1,1,1,1,0,0,2
+0,1,0,1,1,0,1,0,1,3
+1,0,1,1,1,0,0,1,1,3
+1,1,1,1,1,1,0,0,0,0
+1,1,0,1,1,1,1,1,1,2
+0,1,1,1,1,1,0,0,1,1
+1,1,1,1,1,1,1,1,1,2
+1,1,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,2
+0,1,0,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,3
+0,1,0,1,0,1,1,0,1,3
+0,1,1,1,1,1,1,1,0,1
+1,1,0,1,1,0,0,0,0,0
+1,0,1,1,0,0,0,1,0,0
+0,0,1,1,0,0,1,0,1,3
+0,1,0,1,0,1,1,1,1,3
+0,1,1,1,1,1,1,0,1,3
+0,0,0,1,1,0,0,1,0,0
+1,0,1,1,1,1,1,0,0,2
+0,0,1,1,1,1,0,0,1,3
+1,1,1,1,1,1,1,1,1,2
+1,0,1,1,1,1,1,0,1,3
+1,1,0,0,0,1,1,1,0,3
+1,1,1,1,1,1,1,0,1,3
+0,1,1,1,1,1,1,0,0,3
+0,0,0,1,1,0,1,0,1,2
+0,0,0,1,0,0,0,0,0,3
+1,1,1,1,1,1,0,0,1,3
+1,1,1,0,1,1,1,0,1,3
+1,1,1,1,1,1,0,1,1,3
+1,0,0,1,1,0,1,1,0,1
+0,0,1,0,0,0,0,0,0,1
+1,0,1,1,1,1,1,0,1,2
+1,1,1,0,1,1,0,0,1,2
+0,0,0,1,1,0,1,0,0,3
+1,0,1,1,1,1,1,1,0,2
+1,0,1,1,1,0,0,0,1,2
+1,1,0,0,0,1,1,1,0,3
+1,0,0,1,1,0,0,0,0,0
+1,1,1,0,0,1,1,1,0,2
+1,0,0,0,0,0,0,0,1,3
+1,0,0,1,1,0,1,0,1,3
+1,1,1,1,1,0,1,0,0,2
+0,0,0,1,0,0,1,1,0,3
+0,1,0,1,1,0,0,0,0,2
+1,1,1,0,0,1,1,1,1,2
+1,1,1,1,1,1,1,0,1,3
+0,0,1,1,0,0,0,0,1,2
+1,1,0,1,1,1,1,0,0,1
+0,1,0,1,0,0,0,0,1,2
+0,1,1,1,0,1,1,1,0,2
+0,0,0,1,1,1,1,0,1,2
+0,0,0,1,0,0,1,1,1,1
+1,0,1,1,1,0,0,1,0,3
+0,0,0,0,0,0,0,1,0,1
+1,1,0,1,0,0,0,1,0,2
+0,1,1,1,0,1,1,0,1,1
+1,0,1,1,1,0,0,1,0,0
+0,0,1,0,0,0,0,1,0,0
+1,0,1,1,1,0,0,0,1,1
+0,1,0,1,1,1,0,0,1,3
+1,1,1,1,1,1,1,1,1,2
+0,0,0,0,0,0,0,0,1,2
+1,0,0,1,0,0,1,1,0,2
+0,0,0,0,0,0,0,0,1,2
+0,0,0,1,1,1,1,1,0,2
+0,0,0,0,0,1,1,1,1,3
+0,1,0,1,0,0,0,1,0,1
+0,0,0,1,0,0,1,0,1,2
+0,0,0,1,0,0,0,0,1,1
+0,0,0,1,1,0,0,1,1,1
+1,1,1,0,0,1,1,0,1,3
+0,0,0,0,0,0,1,0,1,2
+1,1,1,1,1,1,1,1,0,3
+1,1,1,0,1,1,0,0,1,2
+1,0,1,1,1,0,0,0,1,2
+0,1,1,1,0,1,1,0,1,2
+1,1,1,0,0,0,1,0,1,3
+1,1,1,1,1,1,1,0,1,3
+1,1,1,0,1,1,1,1,0,3
+0,0,1,0,0,0,1,0,0,3
+0,1,0,1,0,0,1,1,1,3
+1,0,1,0,1,0,1,0,1,2
+1,1,1,1,1,1,1,1,1,3
+0,0,0,1,1,0,1,0,1,2
+1,0,0,1,1,0,0,0,1,3
+0,1,1,1,1,1,0,0,0,0
+1,1,1,1,1,1,0,1,0,0
+1,0,1,1,1,0,0,1,0,0
+1,0,1,0,0,0,0,0,1,2
+0,1,1,1,1,1,1,1,0,2
+1,1,1,0,1,0,1,0,0,1
+1,1,1,1,1,1,1,0,1,2
+1,1,1,1,1,1,1,0,0,3
+1,0,0,1,1,0,0,1,0,0
+1,1,0,0,1,1,1,0,1,1
+1,0,1,1,1,0,0,0,0,2
+0,0,0,1,0,0,0,1,0,0
+1,0,1,1,1,1,1,0,1,2
+1,0,1,1,1,1,0,1,0,0
+0,0,0,1,1,0,0,0,0,0
+0,1,0,1,1,0,0,0,0,1
+1,0,0,0,0,0,0,0,0,0
+0,1,1,1,1,1,1,1,0,3
+1,0,1,1,1,0,0,0,1,2
+1,1,1,0,0,1,1,0,0,2
+1,0,1,1,1,1,1,0,1,2
+1,0,1,1,1,0,0,0,0,3
+1,0,1,0,1,0,0,0,1,2
+0,0,0,1,1,0,1,1,0,2
+0,0,1,0,0,0,0,1,1,2
+1,0,1,1,1,0,0,1,1,1
+1,0,1,1,1,1,1,1,0,1
+1,1,1,1,1,1,1,0,1,3
+0,1,0,1,0,0,1,0,0,2
+0,1,0,1,1,1,1,0,0,1
+1,0,0,1,0,0,0,0,1,2
+1,1,1,1,0,0,1,1,0,1
+1,0,1,1,1,1,1,1,1,3
+1,0,1,1,1,1,1,0,0,3
+0,0,0,1,0,0,1,0,0,2
+0,1,0,1,1,0,1,0,1,2
+1,0,1,1,1,0,0,0,0,1
+0,0,0,0,0,0,0,1,0,1
+1,0,1,0,0,0,1,0,0,2
+0,1,0,1,1,1,1,1,0,1
+1,0,0,1,1,0,0,0,0,1
+1,0,1,1,1,1,1,0,1,3
+0,1,1,0,0,0,0,0,1,2
+0,1,1,0,0,1,1,0,1,3
+1,1,1,1,0,1,1,0,0,3
+0,0,0,1,1,0,1,0,0,1
+0,0,0,1,0,0,0,0,0,1
+0,0,0,1,0,0,0,1,0,1
+1,0,1,1,1,1,1,0,1,3
+1,0,0,1,1,0,0,0,1,2
+1,1,1,0,0,0,1,0,0,2
+1,1,0,1,1,1,1,0,0,2
+0,1,1,0,0,0,1,0,0,3
+1,0,0,1,1,0,0,1,0,0
+0,0,0,0,0,0,0,0,1,3
+1,0,1,1,0,1,1,0,1,3
+1,0,1,1,1,1,1,1,1,1
+1,1,1,1,0,0,0,0,0,0
+1,1,0,1,1,1,1,0,1,3
+0,0,0,1,1,1,1,1,1,3
+1,0,1,0,0,0,0,1,0,3
+1,1,1,0,0,1,1,1,1,2
+1,0,1,1,1,1,1,0,1,1
+1,0,0,1,1,1,1,0,0,3
+0,1,0,1,1,0,1,0,0,3
+1,0,1,1,1,0,0,0,1,2
+0,1,1,1,1,1,1,0,0,3
+1,0,1,0,1,1,1,1,0,3
+0,1,0,0,0,0,0,1,0,1
+0,1,1,1,0,1,1,0,1,3
+0,0,0,0,0,0,1,1,0,3
+1,0,1,0,0,0,0,1,0,0
+1,1,1,0,1,1,1,1,0,3
+1,0,1,1,1,1,1,1,0,2
+1,0,1,1,1,1,1,0,1,3
+1,0,0,1,1,0,1,1,0,2
+1,0,1,0,1,1,1,0,1,3
+0,0,0,1,1,1,1,1,0,3
+1,1,1,1,1,1,1,1,1,3
+0,1,1,0,0,1,1,0,1,2
+1,0,1,1,0,1,0,1,1,1
+1,1,1,0,1,1,1,0,1,1
+1,1,1,1,1,1,1,0,1,2
+1,1,0,1,0,1,1,0,1,2
+1,1,1,0,0,0,1,0,1,3
+0,1,0,1,0,0,0,0,0,3
+1,1,1,1,0,1,1,0,1,3
+0,1,0,1,0,1,1,0,1,1
+1,1,1,1,0,1,1,1,1,2
+0,0,0,0,0,0,0,0,0,0
+1,0,1,1,1,1,1,1,1,2
+1,1,1,0,0,0,0,0,1,2
+1,0,1,0,0,0,0,0,0,2
+0,0,1,1,1,0,0,0,0,0
+0,0,0,0,1,0,0,1,0,1
+1,0,1,1,0,0,1,0,1,3
+1,0,1,1,0,0,0,1,0,0
+1,0,1,0,0,1,1,0,1,3
+1,1,0,1,1,1,1,0,1,2
+1,1,1,1,1,1,1,1,0,3
+1,1,1,1,1,1,1,1,0,3
+1,1,1,0,1,1,1,0,0,2
+0,1,0,0,0,1,1,0,1,3
+0,0,0,1,1,0,0,1,0,1
+0,1,1,0,0,1,1,1,1,3
+1,0,1,1,1,1,1,0,1,2
+0,1,0,1,1,1,1,0,1,3
+1,0,1,1,1,1,1,0,0,2
+0,0,0,0,0,0,1,1,0,2
+1,1,0,0,0,0,1,0,0,2
+0,1,0,0,1,1,1,0,0,2
+0,0,0,1,1,1,1,1,1,1
+0,1,0,1,0,0,0,0,0,0
+1,0,1,1,1,1,1,0,1,1
+1,0,1,0,1,1,1,1,0,2
+1,0,1,1,1,1,1,1,1,2
+1,0,1,1,1,1,0,0,1,1
+1,0,0,1,1,0,0,1,0,0
+0,1,0,1,0,0,1,0,1,3
+1,0,1,1,1,1,1,1,1,2
+0,1,0,1,0,0,0,1,0,0
+1,0,1,1,1,1,1,0,0,2
+0,0,0,1,0,0,0,1,0,1
+1,1,1,0,0,0,1,1,0,3
+0,0,0,1,0,0,0,0,0,3
+1,1,1,1,1,1,1,1,1,2
+0,0,0,1,0,0,1,0,1,3
+0,0,0,1,1,0,0,0,0,0
+1,1,1,1,1,1,1,0,1,2
+0,1,0,0,0,0,0,0,1,2
+0,0,1,1,1,0,1,0,0,3
+1,1,0,0,0,1,0,0,1,2
+1,0,1,1,1,1,1,0,1,2
+0,0,1,1,0,1,1,1,1,2
+1,1,1,0,0,0,0,0,0,1
+0,0,0,1,0,0,1,0,1,2
+0,0,1,1,0,0,0,1,0,0
+0,1,0,1,0,0,1,1,1,1
+0,1,0,0,0,1,0,0,1,1
+1,1,1,0,1,1,1,1,1,3
+1,1,1,0,0,0,0,0,1,3
+1,0,0,1,1,0,0,0,0,0
+1,0,1,0,0,0,0,0,1,1
+1,1,0,1,1,1,1,1,1,3
+0,1,0,1,0,1,1,1,1,2
+1,0,1,1,1,0,1,0,1,2
+1,1,1,1,1,1,1,0,1,3
+1,0,1,0,1,1,0,1,1,1
+0,0,0,0,1,1,1,1,0,2
+0,0,0,1,1,0,1,0,1,3
+1,1,1,1,1,1,1,0,1,2
+0,0,1,1,1,0,1,1,0,2
+1,0,0,1,1,0,0,1,0,0
+0,1,0,1,1,0,0,0,0,0
+1,1,1,0,0,1,1,1,0,1
+0,0,0,0,0,1,1,1,0,2
+1,0,1,0,0,0,1,1,0,1
+0,0,0,1,1,0,0,0,1,2
+0,0,0,0,0,1,1,1,1,2
+0,0,0,0,1,0,0,1,0,1
+0,0,0,0,0,0,0,0,1,2
+0,1,0,1,1,0,1,1,1,3
+1,0,1,1,1,1,1,0,1,1
+1,0,1,1,0,0,0,0,1,3
+0,0,1,1,0,0,0,1,0,2
+0,1,0,1,0,0,0,0,1,2
+1,0,1,0,1,0,0,0,0,0
+1,1,1,0,0,1,1,1,0,3
+0,0,0,1,1,0,1,1,0,1
+1,1,1,1,1,0,0,1,0,0
+1,1,1,1,1,1,1,0,1,1
+0,1,0,0,1,1,1,0,1,3
+1,1,1,1,1,0,0,1,0,0
+0,0,0,1,0,0,0,1,0,0
+1,0,0,0,0,0,0,0,0,3
+1,0,1,1,1,1,1,0,0,1
+0,1,1,0,0,0,0,0,1,2
+1,0,1,0,1,0,0,0,0,3
+1,0,1,1,1,1,1,0,1,1
+1,0,1,1,1,0,0,0,1,1
+0,1,0,0,0,1,1,0,0,2
+0,0,1,1,1,1,1,0,1,3
+1,0,0,1,1,1,1,0,0,1
+1,0,1,0,0,0,0,0,1,1
+1,1,1,1,1,1,1,1,0,2
+1,1,1,1,0,0,0,0,1,2
+1,1,0,1,1,0,1,1,1,3
+0,1,0,0,0,0,0,0,1,1
+0,0,0,0,0,0,1,0,1,2
+0,1,1,1,1,1,1,1,0,1
+0,1,0,1,1,0,0,1,0,2
+1,0,1,0,0,0,0,1,1,2
+1,0,0,1,1,0,1,1,0,2
+1,1,1,0,1,1,0,1,1,2
+1,0,1,1,1,1,1,0,1,2
+0,0,1,0,0,0,1,1,0,3
+1,1,1,1,1,1,1,1,1,3
+0,1,1,1,1,1,1,0,1,1
+0,0,1,1,0,0,1,1,1,3
+0,0,0,1,0,0,0,0,0,1
+1,0,1,0,1,1,1,1,1,2
+1,0,1,0,0,1,0,0,0,3
+1,1,1,0,0,1,1,0,0,1
+1,1,1,1,1,1,1,0,1,1
+1,1,1,0,1,1,1,0,1,1
+1,0,1,0,0,0,0,0,0,0
+1,0,1,1,1,1,1,1,1,2
+0,0,1,1,1,0,0,0,1,2
+1,1,1,1,1,1,1,0,1,3
+1,1,0,1,1,1,1,1,0,3
+1,0,0,1,1,1,1,1,0,3
+0,1,1,1,1,1,1,0,1,2
+1,1,0,1,1,1,1,0,1,2
+1,1,1,1,1,1,0,0,1,3
+1,0,1,0,1,0,0,0,0,1
+0,1,1,0,0,0,0,1,0,1
+1,0,1,1,1,0,1,0,1,3
+1,1,0,1,1,1,1,1,0,2
+0,0,0,1,1,0,1,0,1,2
+1,1,1,1,1,1,1,0,1,3
+1,0,1,1,0,0,0,0,0,0
+0,1,0,1,1,0,1,0,1,3
+1,1,1,1,1,1,1,1,0,2
+1,1,1,0,0,0,0,1,1,1
+1,1,1,1,1,1,1,0,1,2
+0,0,0,0,0,0,0,0,0,1
+0,0,0,0,0,0,0,1,0,2
+1,0,1,1,1,1,1,1,1,3
+1,1,1,1,0,0,1,1,0,2
+0,1,1,0,0,1,1,1,1,3
+0,1,0,1,1,1,1,1,0,2
+1,1,1,0,0,1,1,0,1,3
+0,0,0,1,1,0,0,0,0,0
+1,1,0,1,1,1,0,1,1,2
+0,0,0,1,1,0,0,0,0,2
+1,1,1,1,1,1,1,0,1,2
+0,1,0,0,0,0,1,0,1,3
+0,1,0,1,1,1,1,1,0,2
+1,1,0,1,1,0,0,1,0,1
+0,0,0,0,1,0,1,1,0,2
+1,0,1,1,1,0,1,0,1,3
+0,1,0,0,0,1,1,0,1,1
+1,0,0,0,0,0,0,1,1,2
+0,0,1,0,1,1,1,0,1,2
+0,0,1,1,1,1,1,1,0,3
+0,0,1,1,1,1,1,1,0,1
+0,0,0,1,0,0,0,0,1,2
+1,1,1,1,1,1,1,0,1,3
+1,1,1,1,1,0,0,1,1,2
+0,0,1,1,1,0,0,1,0,3
+0,0,0,1,0,0,1,0,0,3
+1,0,0,1,1,0,0,0,1,3
+1,1,1,1,1,1,1,0,0,3
+1,0,1,0,1,1,1,0,1,3
+1,0,0,0,1,0,0,1,0,1
+1,0,1,0,0,0,1,1,0,3
+0,1,1,1,1,1,1,0,1,2
+1,1,1,1,1,1,0,1,0,1
+1,0,1,1,1,1,1,1,0,3
+1,1,0,0,1,1,1,0,1,2
+1,0,1,0,1,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,2
+0,0,0,1,1,0,1,1,1,3
+1,0,1,0,0,1,1,0,0,3
+0,0,0,1,1,0,0,0,1,2
+1,0,1,1,1,0,1,1,0,2
+1,0,1,0,0,0,0,1,1,2
+1,1,1,1,1,1,1,1,1,2
+0,1,0,0,0,0,0,1,0,1
+1,1,1,1,1,1,1,0,0,3
+0,1,0,1,1,0,0,1,0,0
+1,0,1,1,1,1,1,0,1,2
+1,1,1,1,1,1,1,0,1,2
+0,1,0,1,1,0,1,0,0,3
+1,0,0,0,0,0,0,0,0,3
+1,0,1,1,1,1,0,1,0,0
+1,0,0,1,0,0,0,1,0,3
+0,0,0,1,1,0,1,1,0,2
+1,1,1,1,1,1,1,1,1,3
+0,0,0,1,1,0,0,0,0,3
+0,0,0,1,0,0,1,0,0,3
+1,1,1,0,1,1,0,0,1,2
+1,1,1,1,0,0,0,0,1,2
+1,0,0,1,1,1,1,0,1,3
+0,0,0,1,1,1,1,1,1,3
+1,1,1,1,1,1,1,0,1,3
+0,1,1,1,1,1,0,0,0,0
+1,0,1,1,1,0,0,0,1,1
+0,0,0,1,0,0,1,1,0,3
+0,0,0,1,1,0,0,1,0,1
+1,0,1,0,1,1,1,1,0,2
+0,0,0,1,1,0,0,1,0,0
+1,0,1,1,1,0,1,0,0,2
+0,0,1,1,1,0,0,0,0,1
+1,0,1,1,1,1,1,0,1,2
+1,1,1,0,0,1,1,0,1,2
+0,0,0,0,0,0,1,0,0,1
+0,0,0,1,0,0,0,0,0,1
+0,0,1,0,0,1,1,0,1,2
+1,0,1,0,0,0,0,0,1,3
+0,1,0,1,1,1,1,0,1,2
+1,1,0,1,1,0,0,1,0,3
+1,1,0,1,1,1,1,0,0,1
+1,0,1,1,1,0,1,1,0,2
+0,0,0,1,0,0,1,1,0,3
+1,1,1,1,1,1,1,0,1,3
+1,0,0,1,1,1,1,0,0,3
+0,0,0,1,0,0,1,1,0,1
+1,1,1,1,1,0,0,0,1,2
+0,0,0,1,0,0,0,0,0,1
+1,1,1,0,1,1,1,0,1,2
+1,0,1,0,0,1,1,1,1,2
+1,1,1,1,1,1,1,0,1,2
+0,0,1,1,0,0,0,1,0,0
+1,0,1,1,1,1,1,1,1,3
+0,1,1,1,0,0,1,0,1,3
+0,0,1,1,1,0,0,1,0,1
+1,1,1,1,1,1,1,0,1,3
+1,1,1,0,0,0,0,1,0,3
+0,1,1,1,0,1,1,0,1,3
+0,1,0,1,0,0,1,0,1,3
+1,1,1,1,1,1,1,0,1,3
+0,1,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,1,1,3
+1,1,1,1,1,1,0,1,1,3
+1,0,1,1,1,1,1,0,1,3
+0,1,1,1,1,1,1,0,1,3
+0,1,1,0,0,1,1,1,1,2
+1,1,1,1,1,1,1,0,1,2
+0,1,1,1,1,1,1,0,0,3
+0,1,0,1,1,1,1,0,1,2
+1,1,1,1,1,1,1,0,1,3
+0,0,0,1,1,0,0,0,0,0
+1,0,0,1,1,1,1,0,1,2
+0,1,0,1,1,1,1,1,1,3
+1,0,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,1,1,3
+1,0,1,1,1,1,1,1,1,3
+1,0,1,1,1,0,1,1,0,3
+0,0,0,1,1,1,0,0,1,1
+0,0,0,1,1,0,0,0,1,1
+1,0,1,1,1,0,1,0,0,3
+1,0,1,0,1,1,1,1,1,3
+0,1,0,0,0,0,0,0,1,2
+1,1,1,1,1,0,1,1,0,2
+1,1,1,1,1,0,0,1,1,2
+1,1,1,1,1,1,1,0,1,2
+0,1,0,1,1,1,1,0,1,1
+1,1,1,0,1,0,0,0,1,2
+1,1,1,0,1,1,1,0,0,2
+1,1,1,1,1,1,1,0,1,3
+1,1,1,0,1,1,1,0,0,3
+1,1,0,0,0,0,1,1,0,2
+0,0,0,1,1,1,1,0,1,1
+0,1,1,1,0,1,1,0,1,2
+1,0,1,1,0,0,1,0,0,2
+1,0,0,0,0,1,1,1,1,2
+1,0,0,0,1,1,1,1,0,2
+0,1,0,0,0,0,0,0,0,0
+0,0,0,1,1,0,0,0,1,3
+0,0,0,1,1,0,1,0,1,3
+1,0,1,0,1,1,1,0,0,3
+1,0,1,0,1,1,1,0,1,3
+1,0,0,1,1,1,1,0,1,2
+0,1,1,0,0,1,0,1,0,3
+0,1,0,1,1,1,0,1,0,0
+0,0,0,1,1,0,0,0,1,3
+1,0,1,1,0,0,1,0,1,2
+1,1,1,1,1,1,1,1,0,2
+0,1,1,1,0,0,0,0,0,0
+0,0,0,1,1,0,0,1,0,1
+0,0,1,1,0,0,0,1,0,0
+1,0,1,1,1,0,1,0,1,2
+1,0,1,1,1,0,0,1,1,1
+1,1,0,0,1,1,1,0,1,3
+0,1,0,0,0,0,0,0,0,0
+1,0,1,0,1,1,1,1,1,3
+1,0,1,0,1,0,1,1,0,2
+1,1,1,0,1,1,1,0,0,1
+0,0,0,1,0,0,1,0,1,3
+1,0,1,1,1,1,1,1,0,3
+0,0,0,1,0,0,0,0,0,3
+0,0,0,0,0,0,0,1,0,0
+1,0,0,1,1,0,1,0,1,2
+1,1,1,1,1,1,1,0,0,3
+0,1,1,0,0,1,1,1,1,3
+1,0,1,1,1,1,1,1,1,2
+1,1,1,1,1,1,1,1,0,2
+0,0,0,1,0,0,1,0,0,3
+1,0,1,1,1,1,1,0,1,3
+0,1,0,1,0,0,0,0,1,3
+1,0,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,2
+1,1,0,0,1,1,1,1,0,1
+1,0,1,1,1,1,1,0,1,2
+1,1,1,0,1,1,1,0,1,2
+1,0,1,1,1,0,0,1,0,0
+0,1,0,0,0,0,1,0,1,3
+1,1,1,1,1,1,1,1,1,2
+0,1,0,1,0,1,1,0,1,3
+0,0,0,0,1,0,0,1,0,0
+1,0,1,1,1,1,1,1,0,3
+1,1,1,0,0,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,3
+0,0,0,1,1,0,0,1,0,1
+0,0,0,1,0,0,0,1,0,1
+1,1,1,1,1,1,1,1,1,3
+0,0,0,1,1,0,0,1,0,0
+0,0,1,0,1,1,1,0,1,3
+1,1,1,1,1,1,1,1,0,3
+1,1,1,1,1,0,0,0,1,2
+0,0,0,1,0,0,0,1,0,0
+1,0,1,1,1,1,1,0,1,1
+1,0,0,1,1,0,0,1,0,0
+0,0,1,0,0,0,0,1,0,0
+0,0,0,1,1,0,1,1,0,3
+1,1,1,0,0,1,1,0,1,3
+0,1,1,1,0,1,1,0,1,3
+1,0,0,0,1,1,1,1,0,3
+0,0,0,1,1,0,1,1,0,2
+1,1,1,1,1,1,1,0,1,2
+0,1,1,0,0,0,0,1,0,0
+1,1,0,1,1,1,1,1,1,1
+1,0,1,0,1,1,1,0,1,3
+0,1,0,0,0,0,0,1,0,3
+1,1,1,1,1,1,0,0,1,2
+1,0,0,1,0,0,1,0,1,3
+0,0,0,0,0,0,0,0,1,2
+1,0,0,1,1,0,0,1,1,1
+1,0,0,1,1,0,0,1,0,1
+0,0,0,0,1,1,0,0,1,2
+1,1,1,1,1,1,1,1,1,2
+1,0,0,1,1,1,1,0,0,2
+0,0,1,1,1,1,1,0,1,3
+1,1,1,1,0,0,0,1,0,0
+1,0,1,0,1,1,1,0,1,3
+0,1,0,1,1,1,1,0,1,3
+0,1,1,1,1,1,1,0,1,2
+1,0,0,1,1,0,0,0,1,1
+1,0,1,1,1,0,1,1,0,1
+0,1,0,1,1,0,1,0,1,3
+1,0,1,1,1,0,0,0,0,3
+1,0,1,0,0,1,1,1,1,2
+1,0,0,1,1,0,0,1,0,1
+0,1,0,0,0,0,1,1,0,1
+1,0,1,0,1,0,0,0,1,2
+1,1,1,0,0,1,1,0,1,3
+0,1,0,1,1,1,1,0,1,3
+1,1,1,0,1,1,1,1,0,3
+0,0,1,0,1,1,1,0,1,2
+1,1,0,1,1,1,1,1,1,2
+1,0,1,1,0,0,0,0,1,2
+0,1,1,1,1,1,1,0,1,3
+0,1,0,1,0,1,1,0,1,3
+0,1,0,1,0,0,1,1,0,3
+1,0,1,1,0,0,0,0,0,3
+1,1,1,1,1,1,1,0,1,2
+0,0,0,1,1,0,1,1,0,3
+0,0,1,1,0,0,0,0,1,1
+0,0,1,1,0,0,0,1,0,0
+1,0,1,0,1,0,0,0,1,3
+0,1,1,0,0,1,1,0,1,3
+1,0,1,1,1,1,1,1,1,3
+0,0,0,1,1,1,0,1,0,1
+0,1,0,1,1,1,1,1,0,3
+0,1,1,1,0,1,1,0,1,2
+1,0,1,1,1,0,0,1,0,0
+1,0,1,1,1,1,1,1,0,3
+1,0,1,1,1,1,1,0,1,2
+0,0,0,0,1,0,0,1,0,0
+0,0,0,1,1,1,1,1,1,3
+1,1,1,0,1,1,1,1,1,3
+1,0,1,1,1,1,1,1,0,2
+1,1,1,1,1,0,0,1,1,2
+0,1,0,0,0,0,0,0,0,0
+1,0,1,1,1,1,1,0,1,3
+0,0,0,1,0,0,0,1,0,3
+0,1,0,1,1,1,1,1,1,3
+0,1,1,1,0,0,1,0,0,2
+0,0,0,0,0,0,1,0,0,3
+1,0,1,0,1,1,1,0,1,3
+1,0,1,0,0,1,1,1,0,3
+1,1,1,0,0,1,0,0,1,3
+1,1,0,0,1,1,1,0,1,3
+1,1,1,1,1,1,1,1,0,1
+0,1,1,1,0,1,1,0,1,1
+1,0,1,1,1,0,1,1,0,2
+0,1,0,1,1,1,0,1,0,2
+1,1,1,1,1,1,1,1,1,3
+0,1,0,0,0,0,0,1,0,0
+0,1,0,1,1,0,0,1,1,1
+1,0,1,1,1,0,0,0,0,0
+1,1,1,0,0,1,1,0,1,3
+1,0,1,0,1,1,1,0,1,3
+0,0,0,1,0,0,1,1,1,2
+1,0,1,0,1,1,1,0,1,3
+1,1,1,0,0,0,1,1,0,2
+1,1,0,1,1,1,1,0,1,3
+1,0,1,1,1,1,1,0,1,3
+0,0,0,1,1,0,0,1,0,0
+1,0,1,0,1,1,1,0,1,3
+1,0,1,0,1,0,1,0,1,3
+0,1,0,1,1,1,1,1,1,3
+1,1,1,1,1,0,0,1,0,1
+0,1,0,1,1,1,0,0,1,2
+1,1,1,1,1,1,1,0,1,3
+1,0,0,1,1,0,0,0,1,2
+1,0,1,1,1,1,1,0,1,2
+0,0,0,1,1,1,0,0,1,2
+0,1,0,1,0,0,0,0,0,2
+1,0,1,0,0,0,1,0,0,1
+0,0,1,0,0,0,0,1,0,0
+0,1,1,1,1,0,0,0,0,1
+1,0,1,0,1,0,0,0,1,1
+0,1,1,1,1,1,1,0,1,3
+0,1,0,0,0,0,0,1,0,1
+1,0,0,1,1,1,1,1,0,2
+0,1,0,1,0,0,1,0,0,2
+1,0,1,1,1,1,1,0,0,2
+0,1,0,1,0,0,1,1,1,2
+1,0,0,1,1,0,1,1,1,2
+1,1,1,1,1,1,1,0,1,2
+1,0,1,0,1,1,1,1,0,2
+0,1,0,0,0,0,0,1,0,1
+0,1,1,0,0,0,1,1,0,2
+1,1,1,1,1,1,1,0,1,3
+1,0,1,1,1,0,0,0,0,1
+1,0,0,1,1,0,0,0,0,1
+1,0,1,1,1,0,1,1,0,1
+1,1,1,0,0,1,1,0,1,3
+0,1,0,0,1,0,1,1,0,2
+0,1,1,0,0,1,1,0,1,2
+1,1,0,1,1,1,1,0,0,2
+0,0,0,1,1,0,0,0,0,0
+1,0,1,1,1,1,1,0,0,3
+0,0,0,1,1,1,1,1,1,3
+1,1,1,1,1,1,1,1,0,2
+1,1,0,1,1,0,1,0,0,3
+1,1,1,1,1,1,1,0,1,3
+1,1,0,1,1,1,0,0,1,1
+1,0,1,1,0,0,1,1,1,2
+1,0,1,1,1,0,0,0,1,2
+0,1,1,0,0,1,1,0,1,1
+0,1,0,0,0,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,3
+0,0,1,0,1,1,1,1,0,3
+1,1,1,1,1,1,1,0,1,1
+1,0,0,0,1,1,1,0,1,3
+1,1,1,1,1,1,1,0,1,3
+0,0,0,1,0,0,1,0,1,2
+1,0,1,0,1,1,1,1,0,3
+1,0,0,0,0,1,1,0,1,3
+1,0,1,1,1,1,1,0,1,2
+0,0,0,0,0,0,0,0,0,2
+1,0,1,1,1,1,1,1,0,3
+1,0,1,0,1,1,1,1,1,3
+1,1,1,1,1,1,1,0,1,3
+1,0,0,1,1,0,0,0,0,0
+1,1,1,1,1,1,1,1,0,2
+1,1,1,1,1,1,1,0,0,2
+1,1,1,1,1,1,1,1,1,3
+1,0,1,1,1,1,1,0,1,2
+1,1,0,0,0,0,0,1,1,2
+0,1,0,0,1,1,1,1,0,2
+1,0,1,0,1,1,1,0,1,2
+0,1,0,1,0,0,0,0,1,1
+1,0,1,1,0,0,0,1,0,1
+0,1,0,1,0,0,0,0,0,1
+1,0,1,1,1,1,1,0,1,3
+1,1,1,0,0,1,1,0,1,2
+0,1,0,1,1,1,1,0,1,2
+0,1,1,1,1,1,1,1,0,1
+1,1,0,1,1,0,1,0,0,1
+1,0,1,1,1,1,1,0,1,3
+1,1,1,1,1,1,0,0,0,1
+0,0,1,1,0,0,0,1,1,2
+1,0,1,1,1,0,0,0,1,3
+0,0,0,0,0,0,1,0,1,2
+0,0,1,1,1,1,1,1,1,3
+1,1,1,0,1,1,1,0,1,2
+1,0,1,1,1,1,1,0,0,1
+1,1,1,1,1,1,1,0,1,2
+1,0,0,1,1,1,1,1,1,3
+1,0,1,1,1,0,0,1,0,1
+1,1,1,1,1,1,1,1,1,2
+0,1,0,1,1,0,0,1,0,2
+0,1,0,0,0,1,1,1,1,3
+0,0,0,1,1,1,1,0,0,2
+1,1,1,0,1,1,1,1,1,2
+1,1,1,1,1,1,1,1,1,3
+1,0,1,1,1,1,1,0,1,2
+0,0,0,1,1,1,1,1,0,2
+1,1,1,0,1,1,1,1,1,3
+0,0,1,0,0,1,1,1,1,3
+1,1,1,0,0,1,1,0,0,2
+1,0,1,1,1,1,1,0,1,2
+1,0,1,1,0,0,1,0,1,2
+1,0,1,0,1,0,1,0,1,3
+0,1,0,1,1,1,1,0,1,1
+1,1,1,0,0,1,1,1,0,2
+0,1,0,1,0,0,0,0,0,0
+1,1,1,1,1,1,1,0,1,3
+1,0,1,1,1,1,1,1,1,3
+1,0,1,1,1,1,1,0,1,2
+0,0,0,0,0,0,1,0,1,3
+1,0,1,1,1,1,1,1,1,3
+1,1,1,1,1,1,1,0,0,2
+0,1,1,0,1,0,1,0,0,2
+1,1,1,1,1,1,1,0,1,2
